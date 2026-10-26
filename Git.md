@@ -1242,3 +1242,12 @@ The priority is to make each explanation accurate, useful, reproducible, and eas
 **Understand the command. Understand the history. Understand the consequences.**
 
 **GitAtlas — Git knowledge, organized for everyone.**
+
+
+---
+
+<p align="center">  <a href="https://github.com/Devputta/Drafts-might-be-needed-/blob/main/LOGO/Gemini_Generated_Image_1ppnm1ppnm1ppnm1%20(1).jfif" target="_blank" rel="noopener noreferrer">    <img src="https://wsrv.nl/?url=raw.githubusercontent.com/Devputta/Drafts-might-be-needed-/main/LOGO/Gemini_Generated_Image_1ppnm1ppnm1ppnm1%2520(1).jfif&w=400&h=400&fit=cover&mask=circle&output=png" alt="DevPutta Logo" width="120" />  </a></p>
+<p align="center">
+  <strong>GIT Documentry</strong><br />
+  Private by design. Static by choice.
+</p>
